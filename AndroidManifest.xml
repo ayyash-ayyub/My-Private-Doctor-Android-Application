@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.privatedoctor"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="4" />
+	<uses-permission android:name="android.permission.VIBRATE" ></uses-permission>
+	<supports-screens android:normalScreens="true" android:smallScreens="false" android:largeScreens="false"></supports-screens>
+    <application android:screenOrientation="portrait" android:label="My Private Doctor" android:icon="@drawable/icon" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        <activity android:screenOrientation="portrait" android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        
+		<activity android:screenOrientation="portrait" android:name=".About" android:theme="@style/CustomTheme"></activity>
+		
+		<activity android:screenOrientation="portrait" android:name=".Main" android:theme="@style/CustomTheme"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Menu" android:theme="@style/CustomTheme"></activity>
+		
+		<activity android:screenOrientation="portrait" android:name=".Penyakit1" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit2" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit3" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit4" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit5" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit6" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit7" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit8" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit9" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit10" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit11" android:theme="@android:style/Theme.Translucent"></activity>
+
+		<activity android:screenOrientation="portrait" android:name=".Penyakit12" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit13" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name="Penyakit15" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name="Penyakit14" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit16" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit17" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit18" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit19" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit20" android:theme="@android:style/Theme.Translucent"></activity>
+		<activity android:screenOrientation="portrait" android:name=".Penyakit21" android:theme="@android:style/Theme.Translucent"></activity>
+
+    </application>
+</manifest>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back"
+    >
+    
+    <RelativeLayout
+    android:orientation="vertical" 
+    android:layout_width="fill_parent"
+    android:layout_height="200px"
+    android:layout_marginTop="100px"
+    >
+	
+	
+    <TextView
+    android:id="@+id/tviewx"
+    android:textColor="#f0f0f0"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="Menu"
+    android:textSize="18px"
+	android:layout_marginLeft="80px"
+    ></TextView>
+    
+	
+    <Button
+    android:layout_marginTop="20px"
+    android:layout_below="@+id/auto"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/tombol_diagnosa"
+    android:background="@drawable/tombol_diagnosa"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    ></Button>
+    
+    <Button
+    android:layout_marginTop="10px"
+    android:layout_below="@+id/tombol_diagnosa"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/tombol_about"
+    android:background="@drawable/tombol_about"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    ></Button>
+    
+      <Button
+    android:layout_marginTop="10px"
+    android:layout_below="@+id/tombol_about"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/tombol_exit"
+    android:background="@drawable/tombol_exit"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    ></Button>
+    
+    </RelativeLayout>
+    
+    <RelativeLayout
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+     
+    >
+    
+    
+    </RelativeLayout>
+    
+    
+    
+</LinearLayout>

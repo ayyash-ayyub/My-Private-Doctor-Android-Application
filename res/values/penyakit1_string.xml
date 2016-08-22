@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="tanyadokter">
+<item>Periksakan ke Dokter bila belum terdiagnosa dari diagram ini.</item>
+</string-array>
+
+<string-array name="gejala56">
+<item>Apakah anda terus waswas atau khawatir tanpa jelas sebabnya?</item>
+<item>Apakah berat badan anda turun sendiri sampai 4 Kg dalam 10 minggu terakhir?</item>
+<item>Apakah suhu badan anda sampai 38 derajat Celcius atau lebih?</item>
+<item>Apakah anda sering merasa letih atau kurang bersemangat?</item>
+<item>Apakah anda sering minum alkohol melebihi batas yang di anjurkan?</item>
+<item>Apakah anda sedang minum obat(resep, bebas, maupun rekreasional)?</item>
+</string-array>
+<string-array name="solusi56">
+<item>Kecemasan terhadap suatu hal spesifik atau penumpukan berbagai stres dan kekhawatiran bisa menimbulkan perasaan kurang sehat.</item>
+<item>Turunnya berat badan tanpa penyebab jelas disertai perasaan kurang enak badan bisa menandakan adanya sakit yang belum terdiagnosa.</item>
+<item>Suatu infeksi virus adalah penyebab paling umum rasa tidak enak badan yang di sertai demam.</item>
+<item>Kelelahan adalah gejala umum berbagai kelainan, beberapa di antaranya memerlukan perawatan medis.</item>
+<item>Konsumsi Alkohol berlebihan bisa merusak kesehatan fisik maupun mental. Kurangilah konsumsi alkohol sampai batas aman. Bila anda sulit menguranginya, konsultasikan ke dokter.</item>
+<item>Beberapa obat tertentu bisa menimbulkan efek samping merasa kurang enak badan. Tanyakan ke Dokter, dan sementara itu hentikan semua pemakaian obat bebas dan obat rekreasional, namun jangan hentikan pemakaian obat resep.</item>
+
+</string-array>
+
+<string-array name="gejala57">
+<item>Adakah salah satu gejala berikut?\n\nKehausan yang makin meningkat\nLebih sering berkemih dari biasa\nPenglihatan kabur</item>
+<item>Apakah berat badan anda turun sendiri sampai  4 Kg dalam 10 minggu terakhir?</item>
+<item>Adakah salah satu gejala berikut?\n\nMerasa dingin lebih dari biasanya\nRambut menipis dan getas\nBerat badan bertambah sendiri\nKulit kering dan/kasar</item>
+<item>Adakah salah satu gejala berikut?\n\nNafas sesak\nKulit lebih pucat\nMerasa nanar</item>
+<item>Apakah anda sedang minum obat atau resep?</item>
+<item>Adakah salah satu gejala berikut?\n\nSulit berkonsentrasi\nSulit tidur\nKurang bersemangat\nHilang gairah seks.</item>
+</string-array>
+
+<string-array name="solusi57">
+<item>Diabetes militus adalah sebuah kemungkinan. kondisi ini disebabkan oleh kurangnya produksi hormon insulin yang diperlukan tubuh untuk mengambil energi dari gula dan karbohidrat. Dokter akan mengambil contoh darah anda untuk diperiksa tingkat gulanya. Bila diagnosanya sudah pasti, anda akan memerlukan saran-saran diet dan gaya hidup. Umumnya hal ini sudah cukup, namun ada  beberapa orang yang memerlukan obat berbentuk tablet atau suntikan insulin untuk seumur hidupnya.</item>
+<item>Kehilangan berat badan dan kelelahan bisa timbul dari kelainan yang memerlukan penanganan medis.</item>
+<item>Ada kemungkinan anda mengidap hipertiroidisme (kelenjar teroid kurang aktif). Periksakan ke dokter\n\nDokter akan mengukur tingkat hormon tiroid dari contoh darah anda.Bila diagnosanya benar demikian, anda akan di beri resep obat tiroid yang harus diminum sapanjang  hayat.pemeriksaan darah sesekali di perlukan untuk memantau dosisnya.</item>
+<item>Mungkin anda mengidap anemia, yaitu terlalu sedikit pigmen haemoglobin pembawa oksigen dalam darah anda. Anemia bisa timbul dari berbagai penyebab lain. Dokter akan melakukan beberapa pemeriksaan darah untuk memastikan diagnosa ini. pada beberapa kasus, mungkin diperulkan bebeapa tes lanjutan untuk menentukan penyebab anemianya. penanganan anemia biasanya perlu digabung dengan penanganan penyebab lain yang mendasarinya.</item>
+<item>Beberapa jenis obat seperti bloker-beta terkadang bisa berefek samping kelelahan. Periksakan ke dokter\n\nsementara itu jangan hentikan pemakaian obat resepnya.</item>
+<item>Depresi bisa berkembang menjadi kelelahan dan rasa kurang bersemangat.</item>
+
+</string-array>
+
+<string-array name="gejala58">
+<item>Apakah turunnya berat badan anda hanya sedikit (kurang dari 4 Kg dalam 10 minggu)?</item>
+<item>Apakah selera makan anda sebagus biasanya?</item>
+</string-array>
+
+<string-array name="solusi58">
+<item>Fluktuasi kecil pada berat badan adalah wajar, turunnya berat badan anda mungkin tidak perlu dicemaskan kecuali berat badan anda sudah di bawah batas ideal. Perbanyak porsi makan anda. periksakan ke dokter bila berat badan anda terus merosot atau jatuh sampai di bawah berat ideal untuk tinggi badan anda.</item>
+</string-array>
+
+<string-array name="gejala58_cabang1">
+<item>Adakan salah satu gejala berikut?\n\nMerasa selalu was-was.\nBerkeringat berlebihan.\nMata menonjol.\nTangan gemetar</item>
+<item>Adakah salah satu gejala berikut?\n\nMudah haus.\nLebih banyak buang air kecil dari biasa.\nPenglihatan kabur</item>
+<item>Apakah anda berolah raga lebih banyak dari biasanya?</item>
+</string-array>
+
+<string-array name="gejala58_cabang2">
+<item>Adakah satu atau lebih gejala berikut?\n\nDiare atau sembelit yang sering kambuh.\nNyeri lambung kambuhan.\nDarah di tinja</item>
+<item>Adakah dua atau lebih gejala berikut?\n\nBerkeringat berlebihan di malam hari.\nDemam kambuhan.\nMerasa meriang.\nDarah di dahak</item>
+<item>Adakah satu atau lebih gejala berikut?\n\nSulit berkonsentrasi dan mengambil keputusan.\nSulit tidur.\nKurang bersemangat.\nHilang gairah seks</item>
+</string-array>
+
+<string-array name="solusi58_cabang1">
+<item>Hipertiroidisme (kelenjar tiroid terlalu aktif) adalah kemungkinan penyebab gejala anda.periksakan kedokter. Dokter akan memeriksa tingkat hormon tiroid dari contoh darah anda. bila diagnosanya benar, anda mungkin akan diberi obat tiroid atau radioaktif iodin, yang biasanya efektif seketika. kadang-kadang di perlukan pembedahan untuk mengangkat sebagian kelenjar tersebut. </item>
+<item>BAWA KE DOKTER DALAM 24 JAM!. Diabetes militus adalah sebuah kemungkinan. kondisi ini disebabkan kurangnya produksi hormon insulin, yang di perlukan tubuh untuk memperoleh energi dari gula dan karbohidrat. Dokter akan memerksa kadar gula dalam contoh darah anda. bila diagnosanya benar, anda akan memerlukan saran diet dan gaya hidup. pada banyak pengidap diabetes hal ini sudah cukup; namun ada sebagian pengidap yang memerlukan obat dalam bentuk tablet atau suntikan insulin untuk seumur hidupnya.</item>
+<item>Membakar lebih banyak energi dari yang di dapat dari makanan anda, sangat mungkin sebagai penyebab turunnya berat badan anda ini. Anda perlu menambah jumlah kalori makanan untuk mengimbangi energi yang anda pakai.</item>
+
+</string-array>
+
+<string-array name="solusi58_cabang2">
+<item>Bawa ke dokter dalam 24 Jam [kemungkinan penyebab] Kelainan di saluran pencernaan kemungkinan penyebab turunnya berat badan anda, misalnya radang usus halus atau tukak. Kanker usus juga mungkin, terutama bila usia anda diatas 40 tahun. Dokter akan melakukan beberapa tes diagnostik, meliputi tes darah, tes tinja, dan kolonoskopi.</item>
+<item>Bawa ke dokter dalam 24 Jam [kemungkinan penyebab] Sebuah infeksi kronis seperti tuberkulosis, penyakit berkain AIDS, atau Kanker tertentu, adalah kemungkinan penyebabnya. Dokter akan melakuakan tes darah dan mungkin dahak untuk di analisa, dan meminta pemeriksaan sinar-X dada, serta beberapa tes lain. Dari hasil tes,mungkin anda akan di rujuk ke spesialis untuk di rawat.</item>
+<item>Depresi kadang-kadang bisa menghilangkan selera makan, yang cukup untuk membuat berat badan anda merosot.</item>
+</string-array>
+
+<string-array name="gejala59">
+<item>Apakah anda kegemukan untuk hampir selama hidup?</item>
+<item>Apakah salah satu atau kedua orangtua anda juga kegemukan?</item>
+<item>Apakah gemuknya setelah anda berhenti merokok?</item>
+<item>Apakah gemuknya mulai setelah melahirkan?</item>
+<item>Apakah gemuknya mulai ketika anda sedang stres?</item>
+<item>Apakah bertambah gemuknya setelah suatu perubahan kehidupan atau pekerjaan, dari aktif menjadi lebih tenang?</item>
+<item>Adakah salah satu dari gejala berikut?\n\nKelelahan sangat\nMerasa lebih dingin dari biasa\nKulit semakin kering dan kasar\nRambut menipis dan getas</item>
+<item>Apakah anda sedang memakai obat resep?</item>
+<item>Apakah anda sering minum alkohol melampaui batas aman?</item>
+<item>Apakah usia anda diatas 40 tahun?</item>
+</string-array>
+
+<string-array name="solusi59">
+<item>Kecenderungan kegemukan bisa terjadi di dalam keluarga. Seringkali hal ini akibat kebiasaan makan tidak sehat yang tertanam sejak kecil. Namun pada beberapa kasus diduga ada bawaan turunan untuk menjadi kegemukan. Ikuti saran menurunkan berat badan, mempelajari kebiasaan baru pola makan adalah penting bila anda ingin berhasil mengendalikan berat badan. konsultasika ke dokter bila berat badan anda tidak mau turun, atau bila anda tidak bisa menghilangkan kelebihan berat badan anda.</item>
+<item>Makan lebih banyak dari kebutuhan, agaknya sumber penyebab kegemukan anda. Kurangilah asupan kalori(unit energi) dari biasanya sampai mencapai berat badan ideal anda.Bila tidak berhasil konsultasikan ke dokter.</item>
+<item>Berhenti merokok seringkali menaikkan sejenak berat badan, yang tentu saja resikonya lebih rendah daripada tetap merokok. Penambahan berat badan ini mungkin sebagian karena perubahan kimiawi tubuh, namun lebih mungkin akibat dari lebih banyaknya ngemil dari biasanya. Jangan cemas atas naiknya berat badan dalam seminggu pertama setelah berhenti merokok. Tunggu sampai kebutuhan tubuh anda pada tembakau memudar(setelah sekitar 8 minggu) sebelum menjalani diet penurunan berat badan.</item>
+<item>Kehamilan sering dikaitkan dengan naiknya berat badan yang akan sulit dihilangkan setelah bersalin, terutama apabila naiknya berat badan anda saat hamil sangat besar.</item>
+<item>Makan berlebihan sebagai respon atas situasi yang menekan adalah masalah umum. Pilihlah makanan kecil rendah kalori seperti buah-buahan. bila perlu ikuti diet, penurunan berat badan secara berangsur, lalu terapkan pola makan yang sehat. Namun bila terus mengalami masalah pengendalian berat badan, anda perlu bertindak mengatasi penyebab stresnya. membicarakanya dengan dokter mungkin bisa membantu. dokter mungkin juga bisa menyarankan cara mengatasi kecemasan.  </item>
+<item>Kebutuhan tubuh terhadap energi tergantung pada tingkat keaktifan kegiatan harian. Menyesuaikan makan dengan turunnya kebutuhan energi akan membantu mengurangi kelebiahan berat badan anda. Hal ini berarti mengubah kebiasaan makan yang sudah anda jalani bertahun-tahun, sehingga mungkin perlu waktu sebelum anda terbiasa dengan polamakan yang baru. Anda juga perlu menambahkan sedikit olahraga dalam jadwal harian anda. Hal ini bisa menjaga kesehatan umum anda dan memperkuat penurunan berat badan.</item>
+<item>Mungkin anda menderita hipotiroidisme (kelenjar tiroid kurang aktif) periksakan ke dokter. Dokter akan memriksa tingkat hormon tiroid dari contoh darah anda.Bila terdiagnosa benar, anda akan diberi resep obat tiroid yang perlu di gunakan seumur hidup. Dokter akan menyusun jadwal pemeriksaan darah berkala, untuk memantau dosis yang tepat.</item>
+<item>Jenis obat resep tertentu, misalnya kortikosteroida, bisa berefek-samping menaikkan berat badan. konsultasi ke dokter,dan sementara itu jangan hentikan pemakaian obat resepnya.</item>
+<item>Alkohol berkalori tinggi namun tidak berniai gizi dan bisa menyumbang naiknya berat badan anda. Kurangi konsumsi alkohol anda, bila sulit melakukannya, mintalah saran dokter.</item>
+<item>Naiknya usia sering disertai dengan naiknya berat badan. hal ini mungkin karena kurangnya olahraga di saat tubuh memerlukan lebih sedikit makanan untuk fungsi-fungsi dasar tubuh. Kurangi makanan dan/atau tingkatkan aktifitas untuk memulihkan keseimbangan pasokan dan pemakaian energi tubuh anda.</item>
+<item>Makan lebih dari yang di butuhkan,mungkin penyebab naiknya berat badan anda. Jalani diet penurunan berat badan. Bila dalam sebulan berat badan anda belum turun, mintalah saran dokter. </item>
+</string-array>
+
+
+<string-array name="gejala60">
+<item>Apakah cemas pada masalah keseharian membuat anda sulit tidur?</item>
+<item>Apakah anda terbangun di tengah malam atau menjelang fajar tanpa sebab jelas dan tidak bisa tidur kembali?</item>
+<item>Adakah salah satu gejala berikut?\n\nSulit berkonsentrasi\nSering timbul pikiran negatif\nKurang bersemangat\nKehilangan hasrat seksual</item>
+<item>Ketika sedang sulit tidur apakah anda baru banyak minum alkohol?</item>
+<item>Apakah anda terbangun karena serangan sesak nafas?</item>
+<item>Apakah anda baru menghentikan pemakaian Pil tidur?</item>
+<item>Ketika sulit tidur apakah anda baru minum kopi, teh, atau cola lebih banyak dari biasa?</item>
+<item>Ketika anda sulit tidur, apakah anda baru saja terlambat makan atau tepatnya makan berat?</item>
+<item>Apakan anda sedang hamil?</item>
+<item>Apakah anda sedang minum suatu obat resep?</item>
+<item>Apakah anda lebih banyak bekerja di belakang meja, dan tidak banyak kegiatan fisik?</item>
+<item>Apakah usia anda di atas 60 tahun?</item>
+</string-array>
+
+<string-array name="solusi60">
+<item>Berbagai stres dan kecemasan yang timbul di siang hari bisa membuat anda sulit agak santai agar bisa tidur.</item>
+<item>Tidur terganggu yang disertai gejala seperti itu menunjukkan bahwa anda mungking sedang menderita depresi.</item>
+<item>Walau minum alkohol berlebihan awalnya bisa membuat mengantuk, hal itu cenderung membuat anda terbangun di tengah malam dan sulit untuk kembali tidur. Cobalah untuk mengurangi konsumsi alkohol. Bila sulit melakukannya atau bila sulit tidurnya masih terjadi, mintalah saran dari dokter.</item>
+<item>Sesak nafas yang terjadi tiba-tiba di malam hari bisa ditimbulkan oleh asma atau suatu masalah serius  seperti gangguan jantung dan paru-paru.</item>
+<item>Obat tidur bisa merubah pola tidur anda,dan bisa memakan waktu beberapa minggu atau bulan sampai terbentuk pola tidur yang baru setelah anda menghentikan pemakaiannya. Bersabrlah sampai pola tidur anda kembali normal dan tahanlah godaan untuk meminta Pil tidur lagi ke dokter untuk mengatasi kesulitan tidur anda.Sementara itu lakukan langkah-langkah memperbaiki tidur anda. Bila anda masih juga sulit tidur stelah sebulan, mintalah saran dari dokter anda.</item>
+<item>Kafein yang ada dalam kopi, teh ,cola dan beberapa minuman lainnya, merangsang sistem syaraf, membuat anda lebih aktif. Hal ini bisa membuat anda sulit tidur. Cobalah hindari minuman-minuman tersebut di malam hari. Bila anda masih juga sulit tidur, jauhi semua minuman berkafein.</item>
+<item>Makan berlebihan atau makan terlambat pada malam hari bisa membuat sulit tidur. Cobalah makan lebih ringan atau geser waktu makan malam anda lebih dini.</item>
+<item>Masalah tidur anda mungkin berkaitan dengan kehamilan. Anda bisa terbangun di tengah malam untuk buang air kecil, juga di awal kehamilan. Di usia kehamilan lebih lanjut, gerakan si bayi akan mengusik tidur anda dan membesarnya perut anda akan sulit untuk mencari posisinyaman. Kecemasan menghadapi persalinan juga bisa menimbulkan masalah tidur. Ikuti langkah agar bisa tidur disaat hamil(bawah),Bila anda tetap tidak bisa tidur, bangunlah, membaca, dab lakukan hal-hal ringan. Cobalah tidur sejenak di siang hari. Bicarakan kecemasan anda menghadapi persalinan dengan dokter atau bidan.</item>
+<item>Beberapa jenis obat, misalnya bloker beta, memiliki efek samping sulit tidur. Tanyakan ke dokter. sementara itu, jangan hentikan obat resep anda.</item>
+<item>Kurang kegiatan fisik di siang hari bisa berarti anda kurang cukup lelah untuk bisa mudah tidur, walaupun anda baru mengalami hari yang sangat melelahkan secara mental. Cobalah untuk berolahraga ringan secara rutin di siang atau sore hari. Hal itu akan membuat fisik anda lebih lelah dan memudahkan anda untuk beristirahat. olahraga tidak hanya untuk memudahkan tidur namun juga akan memperbaiki kesehatan anda dan membuat merasa lebih segar.</item>
+<item>Banyak orang yang semakin sulit tidur setelah usia lanjut, BAnyak lansia hanya membutuhkan tidur 6 jam dimalam hari. karena itu, mungkin anda akan bangun pagi lebih dini dari biasanya, atau anda akan merasa lebih sulit tidur dari pada di masa muda. Manfaatkan kelebihan waktu anda, dan hindari tidur siang.</item>
+</string-array>
+
+
+<string-array name="gejala61">
+<item>Adakah ruam di kulit?</item>
+<item>Adakah salah satu gejala berikut?\n\nSakit kepala parah\nNyeri leher saat merundukan KEPALA\nTidak suka cahaya terang\nMengantuk atau bingung</item>
+<item>Apakah anda juga batuk?</item>
+<item>Apakah tenggorokan terasa sesak?</item>
+<item>Adakah salah satu gejala  berikut?\n\nNyeri di satu atau kedua sisi punggung\nBuang air kecil lebih sering dari biasa\nNyeri untuk buang air kecil\nUrin tak berwarna atau keruh</item>
+<item>Apakah anda berada di negeri tropis?</item>
+<item>Bila anda wanita, adakah cairan asing dari vagina yang di sertai nyeri lambung bagian bawah?</item>
+<item>Apakah anda baru saja terjemur terik matahari atau di udara yang sangat panas?</item>
+<item>Dalam beberapa minggu terakhir, apakah anda mengalami demam kambuhan, terkadang di sertai turunnya berat badan tanpa disengaja?</item>
+<item>Apakah nafas terasa sesak, walau sedang instirahat, dan/atau ada terbatukkan dahak kecoklatan?</item>
+<item>Apakah anda batuk berdahak kuning keabu-abuan?</item>
+<item>Adakah salah satu gejala berikut?\n\nSakit kepala ringan\nNyeri di anggota badan\nHidung berlendir</item>
+<item>Apakah batuk anda mengeluarkan darah?</item>
+</string-array>
+
+<string-array name="solusi61">
+<item>Lihat diagram RUAM KULIT DISERTAI DEMAM</item>
+<item>|BAHAYA !  BAWA KE RUMAH SAKIT SEKARANG JUGA|\n\nAda kemungkinan ini adalah gejala meningitis, yaitu radang selaput sekitar otak akibat infeksi. Bila diduga meningitis, anda harus segera dibawa kerumah sakit. Anda akan ditangani segera dengan antibioka dan mungkin memerlukan perawatan intensif.</item>
+<item>Lihat diagram TENGGOROKAN SERAK</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM|\n\nRadang ginjal(pyelonefritis) atau radang kandung kemih(sistiititis) akibatinfeksi mungkin penyebab gejala yang anda alami. Dokter akan memeriksa contoh urin untuk mencari tanda-tanda infeksi. Mungkin dia akan memberikan antibiotika. Wanita yang sudah beberpa kali terinfeksi atau pria yang pernah terinfeksi mungkin memerlukan teslebih lanjut, misalnya scan ultrasonic, untuk memeriksa adanya penyebab hal lain yang mendasarinya.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM|\n\nAda kemungkinan ini sejenis penyakit tropis, seperti misalnya malaria atau tifoid. Bila menduga ini akibat penyakit tropis, dokter akan meminta anda menjalani bebrapa tes, termasuk tes darah dan tes tinja. Bentuk penanganan akan tergantung pada hasil tes.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM|\n\nmungkin ini gejala penyakit radang panggul, peradangan organ-organ reproduksi, seringkali akibat infeksi tularan seksual. Dokter akan melakukan beberapa tes untuk memastikan diagnosa ini. Mungkin anda akan di beri pereda nyeri dan resep antibiotik.</item>
+<item>Terpapar panas bisa menjadi penyebab naiknya suhu tubuh anda. Untuk menurunkannya istirahatlah di ruangan yang sejuk dan banyaklah minum air dingin. Bila temperatur anda belum turun dalam sejam, segera periksakan ke dokter.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM|\n\nSuatu kelainan serius seperti tuberkulosis, kanker bonggol limfe, atau sakit sertaan AIDS, mungkin penyebab gejala yang anda alami. Dokter akan memeriksa anda dan mungkin melakukan tes darah dan/atau dahak. Dia juga bisa meminta pemeriksaan sinar-X dan tes lain. boleh jadi anda akan di rujuk ke spesialis untuk pemeriksaan lanjutan dan perawatan.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA !|\n\nMungkin terjadi suatu infeksi dada, misalnya pneumonia. Bila benar hal itu pneumonia, dokter akan memberi rsep antibiotika dan akan meminta anda untuk menjalani pemeriksaan sinar-X dada, mungkin anda perlu dirawat inap.</item>
+<item>Bronkitis akut (radang saluran udara di paru-paru) akibat infeksi virus adalah kemungkinan penyebab paling besar. Lakukan langkah-langkah mengatasi demam. bila anda merokok, hentikan segera. Biasanya tidak perlu penanganan medis, namun harus di periksakan kedokter bila belum membak dalam bebrapa hari. Bila anda menjadi tidak bernafas sama sekali, segeralah periksakan ke dokter.</item>
+<item>Mungkin sekali ini adalah infeksi virus, misalnya flu. Atasi demamnya. Hubungi dokter bila anda menjadi tak bisa nafas atau bila anda tidak  membaik dalam 48 jam.</item>
+<item>Mungkin ada kelinan serius di paru-paru, seperti tuberkulosis atau kanker paru-paru. Dokter mungkin akan meminta tes darah dan dahak, serta pemeriksaan sinar-X. Boleh jadi anda akan dirujuk ke spesialis untuk menjalani beberapa tes, seperti bronkoskopi, yang akan memastikan bentuk penanganan yang di perlukan.</item>
+
+</string-array>
+
+
+
+<string-array name="gejala62">
+<item></item>
+</string-array>
+
+<string-array name="solusi62">
+<item>Kegemukan bisa dikaitkan dengan berkeringat berlebihan.</item>
+<item>Gejala ini mungkin karena hipertiroidisme (kelenjar tiroid terlalu aktif). Periksakan kedokter. Dokter akan mengambil contoh darah untuk memeriksa tingkat hormon tiroid. Bila diagnosa ini terpastikan, anda akan di obati dengan obat tiroid atau iodin radioaktif,yang biasanya efektif seketika. Pada beberapa kasus, pembedahan untuk membuang sebagian kelenjar mungkin diperlukan.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM|\n\nTerinfeksi kronis seperti tuberkulosis, sakit sertaan AIDS atau sejenis kanker adalah bebrapa kemungkinan. Setelah penelitia awal dengan misalnya sinar-X serta tes darah, dokter anda mungkin akan merujuk anda ke spesialis untuk tes lebih lanjut ataupun penanganan lebih cermat.</item>
+<item>Episoda merasa gerah dan berkeringat, di sebut "hot flushes" adalah gejala wajar di awal timbulnya masa menopause. Banyak wanita yang sudah siap untuk menghadapi "hot flushes", tahu hal itu akan hilang sendiri dalam sekitar setahun. Namun anda bisa menanyakannya ke dokter, yang akan memberikan saran terapi penggantian hormon.</item>
+<item>Berkeringat adalah respon tubuh terhadap demam dan bagian dari mekanisme normal pengatur temperatur tubuh.</item>
+<item>Pada sebagian wanita, perubahan tingkat hormon seks bisa menyebabkan peningkatan keringat saat haid. Hal ini tak perlu dicemaskan, namun periksakan ke dokter bila anda khawatir.</item>
+<item>Konsumsi alkohol berlebihan bisa menyebabkan timbulnya keringat berlebih. Kurangi asupam alkohol dan tetaplah pad batas aman. Bila sulit menghentikan kebiasaan minum alkohol, mintalah saran dokter.</item>
+<item>Obat tertentu, misalnya beberapa jenis antidepresan dan aspirin, mempunyai efeksamping kringat berlebihan. Hentikan pemakaian obat bebas dan konsultasikan ke dokter. Sementara itu, jangan hentikan pemakaian obat resep anda.</item>
+<item>Tangan dan kaki memiliki kelenjar keringat terbanyak. Karena itu, bagian tubuh ini akan bereaksi paling nyata terhadap kenaikan temperatur tubuh. Hal semacam ini tidak perlu di cemaskan. Bila keringat semakin banyak saat anda sedang waswas atau cemas, berlatihlah relaksasi yang bisa di gunakan saat-saat menegangkan. cuci tangan dan kaki anda lebih sering. Bila langkah tersebut kurang efektif, konsultasikan ke dokter. Untuk kasus parah banyak berkeringat di tangan, bedah untuk menyingkirkan saraf pengontrol kelenjar keringat di tangan bisa dipertimbangkan.</item>
+<item>Ketegangan emosi bisa menyebabkan keringat. Hal ini sendiri tidak perlu di cemaskan, namun bila hal itu selalu terjadi atau menyebabkan malu, berlatihlah relaksasi. Konsultasikan ke dokter bila relaksasi kurang berhasil membantu.</item>
+<item>Pada remaja, kelenjar keringat apokrin menjadi aktif. Hal ini biasanya berkaitan dengan peningkatan keringat yang terutama jelas tampak di bawah lengan. Hal ini sangat normal. Pastikan anda rajin mandi, anda mungkin juga perlu memakai deodoran antipespiran untuk mengurangi keringat dan mencegah bau badan.</item>
+</string-array>
+
+
+<string-array name="gejala63">
+<item></item>
+</string-array>
+
+<string-array name="solusi63">
+<item>Banyak penyakit demam juga menimbulkan sakit kepala.</item>
+<item>|BAHAYA !! BAWA KE RUMAH SAKIT SEKARANG JUGA|\n\nCedera kepala tersebut mungkin juga mencederai otak. Anda mungkin harus menjalani bebrapa pemeriksaan, meliputi sinar-X tengkorak atau MRI kepala, dan perlu rawat-inap untuk di awasi lebih cermat.</item>
+<item>Sakit kepala ringan adalah normal setelah sebuah  cedera  kepala ringan. Lakukan langkah-langkah mengatasi sakit kepala. Bila hal itu kurang menolong atau sakit kepala anda bertahan samapai lebih dari 24 jam, periksakan ke dokter.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA|\n\nMungkin terjadi perdarahan subarachnoid, yaitu pendarahan di dalam tengkorak akibat runtuhnya pembuluh darah. Dokter mungkin akan merujuk anda ke rumah sakit untuk  segera di scan-CT, untuk memastikan diagnosanya. mungkin anda memerlukan perawatan intensif, dan pada bebrapa kasus, bisa memerlukan pembedahan untuk menghentikan perdarahan.</item>
+<item>Kemungkinan ini karena glaukoma akut, yaitu sebuah kelaina serius dimana kelebihan cairan menimbulkan tekanan di mata, terutama bila usia anda di atas 40 tahun. Bila benar demikian diagnosanya, mungkin anda akan di rujuk di rumah sakit untuk di beri obat penurun tekanan tersebut. Obat bisa di berikan dalam bentuk tetes mata, oral, ataupun  melalui infus. Setelah tekanan bisa di turunkan , mungkin  akan dil lakukan operasi untuk memperbaiki saluran cairan dari mata.</item>
+<item>Mungkin ini serangan pertama migren, yaitu sakit kepala parah yang bisa timbul di satu sisi kepala. Dokter akan memeriksa untuk menyingkirkan semua kemungkinan penyebab lain. Gejalanya sering kali di redakan dengan pereda nyeri dan antiemetika, minum banyak cairan , dan beristirahat di tempat gelap dan tenang. Bila anda mengalami serangan susulan, ikuti langkah mengurangi frekuensi migren. Bila langkah sendiri tersebut tidak menolong atau serangannya tetap sering, dokter mungkin akan memberikan obat tertentu.</item>
+<item>Sinusitis (radang selaput pembatas rongga tengkorak) bisa menyebabkan gejala ini, terutama bila anda baru-baru ini mengalami pilek, hidung tersumbat, atau hidung berlendir. Cobalah menghirup uap. obat pereda nyeri juga bisa menolong. periksakan ke dokter bila hejalanya tidak hilang dalam 24 jam, mungkin anda memerlukan antibiotika.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA!|\n\nArteritis temporal (radang arteri di kulit kepala atau bagian lain tubuh) adalah suatu kemungkinan, bisa memerlukan penanganan segera untuk mencegah agar tidak mengenai arteri pemasok mata. Dokter mungkin akan meresepkan kortikosteroida untuk mengurangi peradangan. mungkin anda perlu menjalani tes darah secara berkala untuk memastikan dosis and cukup untuk mengontrol peradangannya.</item>
+<item>Regangan otot di leher, akibat sikap tubuh yang buruk atau ketegangan akibat konsentrasi, adalah penyebab paling mungkin dari sakit kepala anda. Lakukan tindakan sendiri untuk meredahkan sakit kepala. untuk mencegah kambuh lagi, pastikan di saat membaca carilah posisi duduk yang enak. istirahat sesekali dari apapun yang sedang anda lakukan juga akan membantu. Bila sakit kepalanya kambuh, cobalah lakukan tes penglihatan di ahli optik atau periksakan ke dokter.</item>
+<item>Sakit kepala bisa disebabkan kurang tidur. tekanan psikologis juga sering menyebabkan sakit kepala. Lakukan tindakan sendiri untuk meredakan sakit kepala.</item>
+<item>Obat tertentu, termasuk pil KB, bisa membawa efek samping sakit kepala. Periksakan ke dokter, yang mungkin bisa memberikan obat penggganti bila kemungkinan penyebabnya adalah obat. sementara itu, jangan hentiklan pemakaian obat resep apa pun.</item>
+<item>Sakit kepala adalah wajar di saat hamil ataupun di saat yang lain. Namun bila disertai dengan kaki atau pergelangan kaki membengkak, penglihatan kabur, atau muntah, segeralah periksakan ke dokter atau bidan. Mungkin anda menderita pre-eklamasi, suatu kondisi yang bisa mengancam jiwa anda dan janin anda. Dokter akan mengukur tekanan darah dan memeriksa urin mencari tanda-tanda pre-eklamasi. Mungkin anda perlu di rawat-inap untuk pengawasan janin.</item>
+</string-array>
+
+<string-array name="gejala64">
+<item></item>
+</string-array>
+
+<string-array name="solusi64">
+<item>Lihat diagram PUSING</item>
+<item>Hipotensi postural, tekanan darah turun sesaat saat bangkit dari duduk, berbaring, atau membungkuk, bisa mengakibatkan limbung. Bila mengalami limbung, biasakan bangkit perlahan dari posisi duduk, brbaring , atau membungkuk. Jenis seperti ini biasanya tidak berbahaya, namun perlu anda periksakan ke dokter bila sering terjadi atau bila anda sedang minum suatu obat.</item>
+<item>Rasa limbung atau pingsan selama hamil cukup biasa terjadi. Perubahan hormon menyebabkan pembuluh darah di seluruh tubuh agak mengendur, dan menurunkan tekanan darah. Sedapat mungkin hindari berdiri terlalu lama. Bila anda terpaksa harus berdiri lama, gerak-gerakkan kaki dan tungkai untuk mendorong darah kembali ke jantung. duduklah segera bila anda mulai terasa limbung, atau berbaringlah menyamping bila nad sedang duduk. Bila serangan limbung itu sering terjadi atau bila anda sampai pingsan, periksakanlah ke dokter.</item>
+<item>Obat tertentu bisa menyebabkan tekanan darah rendah, berakibat samping membuat limbung. Bila anda memakai obat tekanan darah tinggi, turunnya tekanan darah adalah saran yang hendak dicapai, namun dosis anda perlu agak di atur. Jangan hentikan pemakaian obat resep sebelum diperiksa dokter.</item>
+<item>Gula darah rendah mungkin itu penyebab limbung anda. Makanlah sesuatu yang manis, dan ikuti saran meredahka limbung. Bila belum pulih dalam 10 menit, segera periksakanlah ke dokter. Bila hal ini sering anda alami,konsultasikan ke dokter.</item>
+<item>Kegerahan bisa menimbulkan rasa limbung. Duduk atau berbaringlah di tempat yang sejuk dan minumlah  banyak cairan.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA|\n\nBila usia anda di atas 40 tahun, kemungkinan utama penyebabnya adalah transien ischaemic attack(TIA), di mana sebuah endapan darah menyumbat sesaat pembuluh darah pemasok otak. Pada usia lebih muda, suatu kelainan saraf adalah suatu kemungkinan. Berapapun usia anda diperlukan pemeriksaan segera. Mungkin anda perlu menjalani beberapa tes seperti MRI untuk mencari penyebab dan penanganan yang tepat.</item>
+<item>|BAHAYA BAWA KERUMAH SAKIT SEKARANG JUGA|\n\nBila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah stroke, yaitu terdapat kerusakan permanen di suatu bagian otak akibat terhentinya pasokan darah ke daerah tersebut. Pada usia lebih muda, suatu kelainan sistem saraf adalah sebuah kemungkinan. Berapapun usia anda, diperlukan pemeriksaan segera di rumah sakit. mungkin anda perlu menjalani beberapa tes seperti MRI untuk mencari penyebab dan penanganan yang tepat .</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA|\n\nAda sejumlah kondisi berpotensi serius, misalnya kekacauan irama jantung atau masalah katup jantung, yang mengurangi keluaran darah dari jantung, mengakibatkan limbung dan pingsan. Dokter mungkin akan meminta anda segera ke rumah sakit, dimana seluruh kondisi badan anda akan bisa dipantau. Mungkin anda perlu menjalani beberapa tes seperti ECG atau sinar-X dada untuk mencari penyebab kondisi anda. </item>
+<item>Suatau kejutan emosional bisa menyebabkan merosotnya tekanan darah, menimbulkan rasa limbung. Hal ini adalah respon normal dan tidak memerlukan penanganan medis.</item>
+<item>Gejala anda mungkin akibat dari anemia, yaitu terlalu sedikit pigmen hemoglobin pembawa oksigen di dalam darah. Anemia bisa terjadi  akibat berbagai penyebab tersembunyi. Dokter akan melakukan pemeriksaan darah untuk memastikan diagnosanya. Pada beberapa kasus, tes lanjutan mungkin  perlu dilakukan untuk memastikan penyebab timbulnya anemia. Penanganan anemia biasanya akan dikombinasikan dengan penanganan penyebabnya yang tersembunyi.</item>
+<item>|BAHAYA BAWA KERUMAH SAKIT SEKARANG JUGA!!|\n\nPendarahan disaluran pencernaan, misalnya karena tukak peptik,mungkin penyebab simtom ini. Anda mungkin perlu dirawat-inap. Bila pendarahannya parah, anda bisa memerlukan transfusi darah. Mungkin anda juga harus menjalani pemeriksaan endoskopi untuk mendeteksi penyebab pendarahannya.</item>
+<item>Cervical Spondylosis, yaitu artritis di tulang leher, yang bisa menimbulkan tekanan pada pembuluh darah di leher ketika berpaling atau mendongak, dan menimbulkan limbung. Periksakan ke dokter. Bila dokter menduga limbungnya karena cervical spondylosis, anda akan di beri penompang leher untuk membatasi pergerakan leher.</item>
+</string-array>
+
+<string-array name="gejala65">
+<item></item>
+</string-array>
+
+<string-array name="solusi65">
+<item>|BAWA KEDOKTER SEKARANG JUGA!!|\n\nBila usia anda di atas 40 tahun, kemungkinan penyebab utamanya adalah transien ischaemic attack(TIA), dimana sebuah endapan darah menyumbat sesaat pembuluh darah pemasok otak. Pada usia lebih muda, suatu kelaianan saraf adalah sebuah kemungkinan. Berapapun usia anda, diperlukan pemeriksaan segera. Kemungkinan anda perlu menjalani beberapa tes seperti MRI unutk mencari penyebab dan penanganan yang tepat.</item>
+<item>|BAHAYA BAWA KERUMAH SAKIT SEKARANG JUGA|\n\nBila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah stroke, yaitu terdapat kerusakan permanen di suatu bagian otak akibat terhentinya pasokan darah ke daerah tersebut. Pada usia muda  suatu kelainan sistem saraf adalah suatu kemungkinan. Berapapun usia anda, diperlukan pemeriksaan segera di rumah sakit. Mungkin anda perlu mengalami beberapa tes seperti MRI untuk mencari penyebab dan penanganan yang tepat.</item>
+<item>|BAWA KEDOKTER DALAM 24 JAM|\n\nLabirintitis, yaitu radang pada sebagian telinga di bagian dalam yang berkaitan dengan keseimbangan, mungkin penyebab gejala ini. Kondisi ini akibat infeksi virus. Tidak ada penyembuh khusu untuk Labirintitis, namun dokter mungkin akan memberika obat antiemetika untuk meredahkan gejalanya. Ketika gejalanya parah, anda harus berbaring dan berusaha diam sebisa mungkin, kondisi ini bisa berangsur membaik, namun bisa berlangsung samapai 2-3 minggu.</item>
+<item>|BAWA KEDOKTER DALAM 24 JAM|\n\nPenyakit Maniere mungkin penyebabnya. Ini kelainan yang jarang terjadi, yaitu meningkatkan cairan di labirin, begian telinga yang berkaitan dengan keseimbangan, menimbulkan masalah pendengaran dan pusing. Penyakit ini biasanya timbul di usia paruh baya. Dokter mungkin akan merujuk anda ke spesialis untuk menjalani tes pendengaran, sesudah diagnosanya pasti, mungkin anda akan diberikan obat untuk mengurangi cairan di telinga bagian dalam, kadang-kadang diperlukan operasi.</item>
+<item>Ini mungkin akibat cervical spondylosis (artritis di tulang leher), yang menimbulkan tekanan pada pembuluh darah dileher ketika berpaling, dan akibat pusing. Periksakan ke dokter, yang mungkin akan melakukan sinar-X leher. Bila benar itu diagnosanya, mungkin anda memerlukan penopang leher untuk membatasi gerak leher.</item>
+</string-array>
+
+<string-array name="gejala66">
+<item></item>
+</string-array>
+
+<string-array name="solusi66">
+<item>Cervical spondylosis,artritis di tulang leher, mungkin penyebabnya, terutama bila usia anda di atas 50 tahun. Kelainan ini bisa menyebabkan iritasi saraf di titik mereka meninggalkan tulang punggung. Periksakan ke dokter. Dokter mungkin akan melakukan pemeriksaan sinar-X leher. Sesudah diagnosanya pasti, mungkin anda akan diberi penopang leher untuk mengurangi gerak leher dan mengurangi tekanan pad saraf. Simtom ini akan membaik dalam beberapa minggu.</item>
+<item>Sindroma karpal tunnel (saraf pergelangan tertekan), adalah sebuah kemungkinan. Kondisi ini terutama bisa terjadi di saat hamil, ketika timbul bengkak pada jaringan sekitar saraf. Periksakan ke dokter.  Kondisi ini akan hilang sendiri. Bila terus menetap, dokter akan merujuk anda kerumah sakit  guna menjalani beberapa tes untuk memastikan diagnosanya. Suntikan Kortikosteroid ke jaringan di sekitar saraf akan mengurangi bengkak dan meredakan simtom. Pada beberapa kasus bisa diperlukan operasi.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA|\n\nBila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah transient ischaemis attack(TIA), yaitu endapan darah menyumbat sesaat pembuluh darah pemasok otak. Pada usia lebih muda, kemungkinan adalah kelainan pada sistem saraf. Berapapun usia anda, gejala ini memerlukan pemeriksaan segera. Mungkin anda memerlukan tes MRI untuk membantu menetapkan penyebab dan penanganan yang tepat.</item>
+<item>|BAHAYA !!!  BAWA KE RUMAH SAKIT SEKARANG JUGA|\n\nBila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah stroke, yaitu kerusakan permanen di suatu bagian otak akibat terhentinya pasokan darah ke daerah tersebut. Pada usia lebih muda, suatu kelainan sistem saraf adalah sebuah kemungkinan. Berapapun usia anda, diperluka pemeriksaan segera di rumah sakit. Mungkin anda perlu menjalani beberapa tes seperti MRI untuk mencari penyebab dan penanganan yang tepat.</item>
+<item>Fenomena Raynaud, yaitu pembuluh darah di jari dan ibu jari menjadi terlalu peka terhadap dingin dan terlalu berkerut, mungkin sekali penyebab gejala ini. Periksakan ke dokter. Jaga kaki dan tangan anda tetap hangat dan kering. Jangan merokok, pada beberapa kasus, di atasi dengan obat,atau, sangat jarang diperlukan pembedahan.</item>
+</string-array>
+
+<string-array name="gejala67">
+<item></item>
+</string-array>
+
+<string-array name="solusi67">
+<item>|BAHAYA BAWA KERUMAH SAKIT SEKARANG JUGA !!| pada beberapa kasus, linglung setelah benturan di kapala akan berlangsung singkat. Namun, linglung bisa menandakan ada cedera otak serius atau berkaitan dengan pendarahan di antara otak dan otak. Anda akan diperiksa cermat di rumah sakit dan mungkinmemerlukan pemeriksaan  sinar-X atau Scan CT. Mungkin anda juga perlu dirawat-inap untuk di pantau.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA !! | Bila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah transient ischaemic attack(TIA), yaitu endapan darah menyumbat sesaat pembuluh darah pemasok otak. pad usia lebih muda, kemungkinan adalah kelainan pada sistem saraf. Berapa pun usia anda, gejala ini memerlukan pemeriksaan segera. Mungkin anda memrlukan tes seperti MRI untuk membantu menetapkan penyebab dan penanganan yang tepat.</item>
+<item>|BAHAYA !! BAWA KE RUMAH SAKIT SEKARANG JUGA| Bila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah stroke, yaitu kerusakan permanen di satu bagian otak akibat terhentinya pasokan darah ke daerah tersebut. Pada usia lebih muda, suatu kleinan sistem saraf adalah sebuah kemungkinan. Berapa pun usia anda, diperlukan pemeriksaan segera di rumah sakit. Mungkin anda perlu menjalani tes seperti MRI untuk mencari penyebab dan penanganan yang tepat.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA| Demam, terutama demam tinggi(di atas 39 derajat Celcius), bisa menyebabkan linglung. Sambil menunggu bantuan dokter, lakukan langkah-langkah menurunkan temperatur. Dokter akan mendiagnosa penyebab demamnya dan memutuskan penanganan yang tepat.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA| Pemburukan seketika suatu kelainan jantung atau paru-paru akan bisa mengurangi pasokan darah ke otak, dan berakibat linglung. Mungkin anda perlu di rujuk ke rumahsakit, untuk diberi oksigen dan obat untuk menstabilkan kondisi anda.</item>
+<item>Mungkin tingkat gula darah anda terlalu rendah, terutam bila gejalanya sekonyong-konyong. kemungkinan lebih jarang, gejala ini mungkin akibat tingkat gula darah terlalu tinggi. Minum atau makanlah sesuatu yang sangat manis untuk memperbaiki rendahnya tingkat gula darah  dan tidak berbahaya bagi gula darah anda terlalu tinggi. Bila tidak membaik dalam 10 menit, segeralah periksakan ke dokter.</item>
+<item>Depresi bisa mnyebabkan lupa dan linglung, terutama pada usia lanjut. Periksakan ke dokter. Sesudah pasti depresi penyebabnya, dokter akan meresepkan obat anti-depresan. Obat ini sering memperbaiki fungsi-fungsi mental sambil menangani depresiny, namun baru memberi efek setelah beberpa minggu.</item>
+<item>Kehilangan progresif fungsi mental(dementia) akibat penyakit Alzheimer atau beberapa kali terserang stroke ringan adalah beberapa kemungkinan. Dementia sangat mungkin terjadi pad usia di atas 65 tahun, walau ada kasus jarang juga bisa terjadi pada usia lebih muda. Konsultasikan ke dokter. Mungkin dokter akan merujuk ke spesialis, mungkin di perlukan tes darah atau MRI untuk menyingkirkan kemungkinan penyebab lain. Pada umumnya, penanganan tidak bisa memulihkan dementia, namun pemberian obat bisa menahan laju pemburukan. Bebeapa kelompok swadaya masyarakat bisa memberikan informasi swadaya, dan beberapa penyedia jasa bisa memberikan bantuan.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM| Obat tertentu bisa menimbulkan efek samping membuat lupa atau linglung. Jangan hentikan pemakaian obat resep kecuali seijin dokter.</item>
+<item>KOnsumsi alkohol berlebih bisa membuat ingatan hilang dan linglung. Bila terbiasa minum alkohol sampai membuat linglung. segeralah menguranginya. bila sulit melakukannya, mintalah saran dokter.</item>
+<item>Obat rekreasional bisa menybabkan linglung, dan pemakaian berkepanjangan bisa menyebabkan kerusakan otak permanen. hentikan pemakaian obat  atau menghirup larutan rekreasional. bila sulit menghentikannya, konsultasikan ke dokter, yang akan bisa merujuk anda ke konselor atau alamat kelompok swadaya yang bisa membantu.</item>
+</string-array>
+
+<string-array name="gejala68">
+<item></item>
+</string-array>
+
+<string-array name="solusi68">
+<item>Lelah atau ketegangan sering bisa menimbulkan kedutan  ringan seperti ini, yang akan hilang sendiri. Bila berkepanjangan, atau bila membuat anda cemas,periksakan ke dokter.</item>
+<item>Penyakit Parkinson(sebuah kelainan di pusat saraf di otak yang membantu mengontrol gerakan tubuh),mungkin jadi penyebabnya.Periksakan ke dokter. Setelah diagnosa pasti, dokter mungkin meminta anda memeriksakan diri setiap bebrapa bulan untuk di pantau kondisinya. Pada kasus ringan, mungkin tidak di perlukan perawatan. Namun bila gejalanya semakin parah, dokter bisa meresepkan obat untuk membantu meredahkannya.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM| Penghentian seketika alkohol setelah mengkonsumsi tinggi secara berkepanjangan, bisa menimbulkan gemetar tak terkendali. ini adalah pertanda bahwa anda sudah tergantung alkohol. Dokter akan melakukan pemeriksaan darah untuk memeriksa apakah alkohol sudah merasuk organ-organ dalam, misalnya hati. Dokter akan memberi saran cara mengontrol konsumsi alkohol di masa depan. Mungkin anda akan dirujuk ke kelompok swadaya anti-alkohol.</item>
+<item>kebanyakan kafein bisa menyebabkan kedutan dan gemetar. Jangan lagi minum teh, kopi, atau cola selama beberapa jam berikutnya, maka gejala itu akan hilang sendiri. BIla anda mengalami gejala ini secara berkala, kurangi asupan kafein. Bila gejalanya masih menetap, periksakan ke dokter.</item>
+<item>Simtom ini mungkin efeksamping dari obat resep tertentu, atau efek dari penghentian dari obat tidur atau pun penenang. konsultasikan ke dokter. Sementara itu jangan hentikan pemakaian obat resepnya.</item>
+<item>Hipertiroidisme (kelenjar teroid terlalu aktif) mungkin penyebabnya. konsultasikan ke dokter. Dokter akan mengampil contoh darah untuk mengukur tingkat hormon tiroid di dalamnya. Bila diagnosanya membenarkan, anda akan dirawat dengan obat tiroid atau iodin radioaktif, yang biasanya efktif seketika. Pada beberapa kasus, mungkin diperlukan pembedahan untuk mengangkat sebagian kelenjar tersebut.</item>
+</string-array>
+
+<string-array name="gejala69">
+<item></item>
+</string-array>
+
+<string-array name="solusi69">
+<item>|BAWA KE DOKTER DALAM 24 JAM| Mungkin anda mengalami ruam saraf, yaitu infeksi virus pada saraf, di sebabkan oleh virus penyebab cacar-air. Dokter bisa meresepkan peredah nyeri dan pil antivirus. Bila ruamnya mengenai mata, anda mungkin juga di rujuk ke spesialis untuk di teliti dan dirawat.</item>
+<item>Nyeri di sekitar mata bisa disebabkan oleh berbagai kelainan mata. (lihat diagram NYERI ATAU PERIH DI MATA).</item>
+<item>Sinusitis(radang pada selaput pembatas rongga udara di tulang wajah), yang terjadi setelah terserang pilek, bisa menjadi penyebab nyeri ini. Menghirup uap dan pereda nyeri bisa membantu meredahkan gejala. bila tidak membaik dalam 48 jam, konsultasikan ke dokter, yang akan meresepkan antibiotika.</item>
+<item>|BAWA KE DOKTER SEKARANG JUGA| Ada kemungkinan ini adalah temporal artritis, yaitu suatu peradangan arteri di kulit kepala dan bagian lain tubuh, terutama bila usia anda di atas 50 tahun. penanganan segera, bisa sangat diperlukan untuk mencegah kerusakan pembuluh darah ke mata.yang bisa mempengaruhi penglihatan. pada beberapa kasus, satu segmen kecil arteri disingkirkan untuk memastikan diagnosa. Dokter akan bisa meresepkan pengobatan dengan kortikosteroida selama 6 bulan atau lebih. Pemeriksaan darah secara berkala akan diperlukan untuk memastikan bahwa radangnya sudah bisa di konrol.</item>
+<item>Trigeminal neuralgia, yaitu nyeri karena iritasi di sebuah saraf, mungkin penyebabnya. periksakan ke dokter. Dokter akan memeriksa telinga anda dan meminta memeriksakan gigi untuk menepis adanya kemungkinan penyebab lain. Biasanya,Trigeminal neuralgia awalnya di rawat dengan peredah nyeri. Namun, bila obat itu tidak efektif, antikonvulsan atau antidepresan akan bisa meredahkan nyerinya.</item>
+<item>Kemungkinan ada masalah di sendi temporomandibular, yaitu sendi antara rahang dengan tengkorak, masalah seperti ini bisa karena ketidakrataan gigi atau bisa timbul bila anda berkerot gigi di saat tidur. Periksakan kedokter gigi. Bila anda berkerot gigi, dokter gigi bisa menyarankan pemakaian penjaga mulut di saat tidur. Munimlah pil pereda nyeri, dan selain itu, kompres wajah anda dengan botol air panas dan urutlah otot sekitar sendi tersebut. Bila kerana ketidak rataan gigi, anda memerlukan bantuan dokter gigi.</item>
+</string-array>
+
+<string-array name="gejala70">
+<item></item>
+</string-array>
+
+<string-array name="solusi70">
+<item>|BAWA KE DOKTER SEKARANG JUGA| Bila usia anda di atas 40 tahun, kemungkinan utama penyebabnya adalah transien ischaemic attack(TIA), dimana sebuah enapan darah menyumbat sesaat pembuluh darah pemasok otak. Pada Usia lebih muda, suatu kelainan saraf adalah sebuah kemungkinan. Berapa pun usia anda, diperlukan pemeriksaaan segera. Mungkin anda perlu menjalani beberapa tes seperti MRI untuk mencari penyebab dan penanganan yang tepat.</item>
+<item>|BAHAYA !!! BAWA KERUMAH SAKIT SEKARANG JUGA !!| Bila usia anda di atas 40 tahun, kemungkinan terbesar penyebabnya adalah stroke, yaitu terdapat kerusakan permanen di satu bagian otak akibat terhentinya pasokan darah ke daerah tersebut. Pada usia lebih muda, suatu kelainan sitem saraf adalah sebuah kemungkinan. Berapa pun usia anda, diperlukan pemeriksaaan segera di rumah sakit. Mungkin anda perlu menjalani beberapa tes seperti MRI untuk mencari penyebab dan penanganan yang tepat. </item>
+<item> Ada beberapa kondisi mulut, termasuk infeksi, yang bisa menyebabkan nyeri dan bengkak di mulut sehingga menyulitkan bicara dengan jelas. (Lihat diagram MASALAH MULUT)</item>
+<item>Bengkak atau infeksi di saraf pemasok otot-otot wajah, adalah sebuah kemungkinan. Kondisi ini dikenal sebagai Bells palsy atau palsi wajah. Bila palsi timbul sekonyong-konyong, dokter akan meresepkan kortikosteroida. Bila timbulnya berangsur-angsur, dokter akan meminta anda menjalani pemeriksaan MRI untuk menentukan penyebab dan penanganan yang tepat. Bila mata di bagian wajah yang terkena tidak bisa menutup sempurna, anda mungkim memerlukan perlindungan mata dan merekat mata anda agar terpejam ketika tidur.Pada banyak kasus,pergerakan wajah bisa berangsur kembali normal dalam beberapa minggu.Kadang-kadang,ada beberapa kehilangan fungsi yang berlangsung permanen.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM| Beberapa jenis obat bisa membawa efek samping sulit berbicara--contohnya sedatif atau antidepresan bisa membuat pengucapan tidak jelas karena membuat mulut kering. Namun jangan hentikan pemakaian obat resep apa pun kecuali atas saran dokter.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM| Sulit bicara yang tidak jelas sebabnya bisa merupakan tanda awal kelainan tersembunyi di otak atau sistem saraf, dan memerlukan penelitian medis. Dokter mungkin akan melakukan beberapa tes untuk mendiagnosa penyebab dan menetapkan perawatan yang tepat.  </item>
+</string-array>
+
+<string-array name="gejala71">
+<item></item>
+</string-array>
+
+<string-array name="solusi71">
+<item>|BAWA KE DOKTER DALAM 24 JAM| Perasaan seperti itu mungkin karena masalah kesehatan mental. Dokter akan merujuk anda agar diteliti spesialis dan mungkin harus dirawat-inap. Mungkin anda akan di rawat dan di beri obat yang bisa menghilangkan gejala tersebut.</item>
+<item>Anda menderita depresi parah. Betapa pun kuatnya perasaan negatif anda, kondisi ini bisa di sembuhkan. Segeralah mencari bantuan medis, atau teleponlah kelompok swadaya pendukung untuk masalah seperti ini.</item>
+<item>Lihat diagram DEPRESI).</item>
+<item>(Lihat diagram KECEMASAN).</item>
+<item>Kelainan obsesif kompulsif adalah sebuah kemungkinan penyebab. pada kondisi ini, pikiran yang tak di inginkan sering di sertai dorongan tak tertahan untuk melakukan sebuah tindakan sederhana berkali-kali. konsultasikan ke dokter. Dokter akan menyarankan terapi psikologi, dan mungkin di sertai pemberian obat antidepresan.</item>
+<item>Mungkin anda mengalami stres paska-trauma, dimana sebuah peristiwa menegangkan seperti kecelakaan misalnya, memicu emosi kuat yang membuat anda selalu mengingat pengalaman tersebut. Konsultasikan ke dokter. Dokter akan menyarankan mengikuti konseling untuk membantu memulihkan anda dari pengalaman tersebut dan juga akan meresepkan antidepresan.</item>
+<item>Obat rekreasional ditujukan untuk  mempengaruhi suasana hati namun bisa memiliki efek samping yang tidak diinginkan. Penghentian dari satu jenis obat juga bisa memiliki efek tidak menyenangkan. Konsultasikan ke dokter atau mintalah saran dari kelompok swadaya penyedia jasa sejenis.</item>
+</string-array>
+
+<string-array name="gejala72">
+<item></item>
+</string-array>
+
+<string-array name="solusi72">
+<item>Tampaknya anda bukan menderita depresi serius kecuali gejalanya terus menetap. Turunnya semangat anda mungkin akibat kecemasan atau kekecewaan sementara. Membicarakan masalah dengan teman atau keluarga akan bisa membantu perasaan anda enak kembali. Istirahatlah sebanyak mungkin dan usahakan menghindari situasi yang menekan. Olahraga teratur dan latihan relaksasi akan bisa menolong. Bila anda merasa depresi  selama lebih dari 2 minggu, konsultasikan ke dokter.</item>
+<item>Duka akibat kematian seorang yang anda cintai akan bisa membuat anda hilang semangat untuk jangka waktu cukup lama. Beta pun sulit kelihatannya, aktifitas sosial sangat perlu tetap di jaga. Ungkapkan perasaan anda dengan keluarga atau teman, atau cobalah hubungi organisasi sosial bimbingan rohani. Sisihkan waktu setiap hari untuk  melakukan kegemaran anda, berolahraga teratur, dan jagalah agar tidur cukup. bila timbul salah satu gejala penyakit depresi, berarti kesedihan sudah berkembang menjadi sakit depresi.dan perlu pertolongan dokter.</item>
+<item>Peristiwa yang menekan seringkali di ikuti dengan prioda depresi. hal ini disebut depresi aktif, Ada sebagian orang yang bereaksi lebih parah daripada orang lain. Mungkin akhirnya anda bisa mengatasi apa yang terjadi tanpa memerlukan bantuan. Namun bila anda tidak bisa mengatasi masalah keseharian, konsultasikan ke dokter, yang akan meresepkan antidepresan dan/atau  menyaranklan terapi psikologi.</item>
+<item>Stres mungkin penyebab kelesuhan anda, terutama bila stres-nya berkepanjangan. Sebisa mungkin, cobalah perkecil stres-nya. Bicarakan masalahnya dengan keluarga atau teman dekat. Sisihkan sedikit waktu setiap hari untuk kegiatan bersantai yang anda sukai. Olahraga teratur akan sangat bermanfaat, sepeti juga latihan relaksasi. Bila depresi anda terasa semakin memburuk, atau bila rasanya tak bisa anda batasi, konsultasikan ke dokter.</item>
+<item>Sakit karena virus biasanya diikuti dengan prioda kurang semangat. Usahakan secara berangsur kembali ke kegiatan rutin anda. Jagalah agar cukup makan, banyak istirahat, dan olahraga teratur untuk memulihkan tenaga. Bila anda terus lesu atau menunjukkan gejala terkena sakit depresi, konsultasikan ke dokter, yang akan meresapkan antiodepresan dan/atau menyarankan terapi psikologi.</item>
+<item>suatu sakit fisik serius seperti serangan jantung, atau kecelakaan hebat, bisa diikuti dengan depresi. hal ini bisa menghambat pemulihan fisik anda. konsultasikan ke dokter. Dokter akan memberitahu keadaan kesehatan anda dan bahwa hal itu adalah reaksi wajar. Mungkin anda akan di beri antidepresan dan/atau disarankan mengikuti terapi psikologi.</item>
+<item>Kebiasaan banyak minum alkohol bisa menimbulkan depresi. anda juga harus mengingat mengapa anda minum. Ada orang yang memakai alkohol untuk membantu menghadapi stres atau depsresi yang tidak di sadari. Minum lakohol terlalu banyak akan bisa memperumit masalah. Kurangi konsumsi alkohol anda. bila hal ini sulit, atau anda terus menderita depresi, mintalah saran dari dokter.</item>
+<item>Banyak obat rekreasional bisa menimbulkan kekacauan psikologis berat, di saat memakai atau pun setelah menghentikannya. beberapa jenis obat bahkan bisa menimbulkan masalah bertahun-tahun sesudahnya. Bila anda masih memakai obat rekreasional, hentikanlah sekarang juga.  Bila sulit atau mengalami masalah setelah berhenti memakainya, mintalah saran dokter atau konselor atau kelompok swadaya masyarakat.</item>
+<item>Obat tertentu, misalnya obat antihipertensi(untuk mengatasi tekanan darah tinggi) dan pil KB, bisa berefek samping depresi, Konsultasikan ke dokter. Sementara itu, jangan hentikan pemakaian obat resepnya.</item>
+<item>Bila belum menemukan penjelasan atas apa yang anda alami dari diagram ini, periksakanlah ke dokter, karena mungkin anda menderita sakit depresi.</item>
+<item>(lihat diagram DEPRESI SETELAH PERSALINAN).</item>
+<item>Sindroma pra-haid, yaitu kumpulan gejala yang bisa meliputi rasa lesu dan disebabkan perubahan hormoral, mungkin penyebabnya. ikutilah langkah sendiri. Bila gejalanya tidak membaik, konsultasikan ke dokter.</item>
+<item>Perubahan hormoral di sekitar menopause bisa menyebabkan depresi. Perasaan seperti ini bisa terpicu oleh kecemasan mendekati usia lanjut, atau kehilangan kesuburan, atau perginya anak-anak yang sudah mandiri. Konsultasikan ke dokter yang akan menyarankan terapi penggantian hormon. Pada beberapa kasus, mungkin diperlukan pengobatan dengan antidepresan.</item>
+</string-array>
+
+<string-array name="gejala73">
+<item></item>
+</string-array>
+
+<string-array name="solusi73">
+<item>Adanya gejala-gejala tersebut menunjukkan bahwa kecemasan anda akibat sakit depresi. Lihat diagram DEPRESI</item>
+<item>Bila anda sudah menjadi tergantung pada zat-zat tersebut, setiap usaha menghentikan pemakaiannya bisa menimbulkan kecemasan. KOnsultasikan ke dokter. Dokter akan bisa memberi saran cara terbaik  menghentikan kecanduan dan akan memantau kemajuan anda. Ada sebagian orang yang terbantu dengan mengikuti terapi psikologis atau dengan bantuan kelompok swadaya masyarakat. Organisasi seperti itu akan bisa memberi anda alamat orang yang tepat untuk memandu anda, dan juga orang-orang yang telah berhasil melalui proses yang sama.</item>
+<item>Banyak obat rekreasional yang menimbulkan kekacauan psikologis, di masa pemakaian maupun setelah berhenti memakainya. Bila anda masih memakai obat rekreasional, berhentilah sekarang juga. Bila sulit, konsultasikan dengan dokter anda yang akan bisa merujuk anda ke konselor  atau kelompok swadaya masyarakat. Organisasi seperti itu akan bisa memberi anda alamat orang yang tepat untuk memandu anda, dan juga orang-orang yang telah berhasil melalui proses yang sama.</item>
+<item>Stres akibat peristiwa tersebut mungkin penyebab kecemasan anda. Usahakan membuat stres-nya sekecil mungkin dan bicarakan masalahnyan dengan keluarga atau teman dekat. Agar mudah mengendur, sisihkan waktu sejenak setiap hari untuk melakukan kegiatan santai yang anda gemari. olahraga teratur akan bisa membantu, seperti juga latihan relaksasi. Konsultasikan ke dokter bila anda merasa bahwa semua langkah tersebut tidak menolong atau bila kecemasan anda semakin memburuk.</item>
+<item>Ada kemungkinan ini adalah hipertiroidisme(kelenjar teroid terlalu aktif). tanpa tes medis, kecemasan karena hipertiroidisme bisa menjadi sulit dibedakan dari kecemasan karena sebab lain. Periksakan ke dokter. Dokter akan meminta tes darah untuk mengukur tingkat hormon tiroid. bila diagnosanya membenarkan, anda mungkin akan di beri resep obat tiroid atau iodin radioaktif, yang biasanya efektif seketika. Pada beberapa kasus, pembedahan untuk mengangkat sebagian kelenjar tiroid mungkin di perlukan.</item>
+<item> Kecemasan tentang seks adalah biasa, terutama di awal masa dewasa. Sebuah kesulitan khusus pada anda atau pasangan anda, misalnya ejakulasi dini, takut hamil, atau takut tertular infeksi penyakit kelamin, bisa menjadi sumber kecemasan. Kecemasan pada orientasi seksual juga bisa menyebabkan kecemasan. Pada usia lanjut, kecemasan bisa berkaitan dengan menurunnya aktifitas seksual atau kekhawatiran terhadap daya tarik sendiri. Bila punya pasangan tetap, anda perlu mengungkapkan perasaan anda ini. Membicarakan seks secara terbuka  sering merupakan cara terbaik mengatasi kecemasan. Bila tidak bisa berkomunikasi dengan baik atau bila tidak punya pasangan tetap  yang bisa di ajak bicara terbuka, konsultasikan ke dokter yang akan bisa menyarankan anda mengikuti konseling.</item>
+<item>Pada beberapa situasi, sedikit cemas adalah wajar, dan masalahnya akan teratasi dengan bertambahnya pengalaman. Bila kecemasan anda cukup parah, sampai anda menghindari interaksi sosial tertentu, konsultasikan ke dokter. Dokter akan bisa memberi saran strategi menghadapi berbagai situasi sosial, atau merujuk anda ke konselor. Bila kecemasan anda cukup parah, obat bloker-beta atau beberapa jenis antidepresan akan bisa menolong.</item>
+<item>Kecemasan anda mungkin akibat fobia, yaitu ketakutan yang tak masuk akal terhadap sebuah obyek atau situasi tertentu-- misalnya takut laba-laba. Sebaliknya, mungkin anda mengidap kelainan obsesif-kompulsif, yaitu keinginan tak tertahan untuk berperilaku tertentu misalnya anda merasa harus mencuci tangan berulang-ulang dan menjadi sangat cemas  ketika tidak bisa melakukannya. Konsultasikan ke dokter. Dokter akan meminta anda mengungkapkan perasaan anda. Dokter mungkin juga menyarankan terapi psikologis atau pemberian obat untuk mengatasi kecemasan anda. Pada umumnya orang bisa belajar mengatasi takut dan kecemasan sehingga tidak mempengaruhi hidup keseharian mereka.</item>
+<item>Anda mungkin mengalamin serangan panik, yaitu kecemasan parah yang di sertai gejala fisik yang mengkhawatirkan. Serangan panik bersifat tak terduga dan biasanya tidak ada sebab jelas.  Segera periksakan ke dokter selekas mungkin agar bisa dipastikan diagnosanya dan memperkirakan penyebab  fisik gejala anda. Serangan panik bisa memerlukan perawatan dengan terapi psikologi. Ikuti langkah mengatasi serangan panik.   </item>
+</string-array>
+
+<string-array name="gejala74">
+<item></item>
+</string-array>
+
+<string-array name="solusi74">
+<item>Mungkin itu adalah bisul yang terjadi karena infeksi oleh bakteri. Kebanyakan bisul akan hilang sendiri. Namun bila sebuah bisul tidak membaik dalam 48 jam atau bila anda menjadi kurang sehat, periksakanlah ke dokter. dokter mungkin akan meresepkan antibiotika atau menguras nanahnya dengan bius setempat.</item>
+<item>Hernia, yaitu sebagian usus halus menerobos bagian yang lemah di otot dinding perut, mungkin penyebabnya. konsultasikan ke dokter. Bila memastikan karena hernia,dokter akan merujuk anda menjalani operasi untuk memperbaiki dinding perut. Bila sebuah hernia terasa meradang bila disentuh, segera periksakan ke dokter.</item>
+<item>Mungkin ada pembesaran kelenjar ludah akibat salurannya tersumbat, atau mungkin ada infeksi virus gondok. periksakan ke dokter. Bila karena tersumbatnya saluran kelenjar ludah, mungkin anda akan dirujuk ke rumah sakit untuk di rawat. Tidak ada penanganan untuk gondok, namun akan hilang sendiri dalam 2 minggu. Dokter mungkin akan memberi pereda nyeri untuk meengurangi ketidaknyamanan.</item>
+<item>Salah satu infeksi virus, termasuk Rubella, bisa menjadi penyebabnya. periksakanlah ke dokter bila anda tidak membaik dalam 2 hari. bila anda sedang hamil atau berhubungan dengan wanita hanil, periksakanlah ke dokter dalam 24 jam untuk memastikan diagnosa ini. Rubella bisa membahayakan janin.</item>
+<item>|BAWA KE DOKTER DALAM 24 JAM| Demam kelenjar(infeksi mononukleosis) atau infeksi virus lain sangat mungkin jadi penyebabnya, terutama pada usia muda. Namun bintil atau benjolan yang menetap mungkin karena penyakit yang menyerang sistem kekebalan tubuh, seperti kanker sistem limfe(limfoma) atau sakit sertaan AIDS. Dokter akan memeriksa dan melakukan tes darah. Tidak ada penanganan khusus untuk demam kelenjar, namun akan hilang sendiri. Bila menduga ada penyebab lain, dokter akan merujuk anda ke rumah sakit untuk menjalani beberapa tes.</item>
+<item>(lihat diagram TENGGOROKAN SERAK).</item>
+</string-array>
+
+<string-array name="gejala75">
+<item></item>
+</string-array>
+
+<string-array name="solusi75">
+<item>Gatal di daerah kelamin bisa karena infeksi jamur atau karena kutu. Periksakan ke dokter, yang akan meresepkan krim antijamur bila penyebabnya infeksi jamur, atau shampo bila itu karena kutu.</item>
+<item>Perubahan bentuk kulit yang bukan karena garukan mungkin akibat dari sengatan seranggga atau kelainan kulit.</item>
+<item>Obat tertentu bisa menyebabkan gatal sebagai efek samping. Tanyakan ke dokter. Sementara itu hentikan pemakaian obat bebas, tetapi jangan hentikan pemakaian obat resepnya.</item>
+<item>Penyakit kuning, yaitu perubahn warna kulit dan putih mata. sering berkaitan dengan rasa gatal. Hal itu mungkin di sebabkan oleh gangguan pada hati atau empedu. Dokter akan meminta tes darah dan mungkin scan ultrasonik perut untuk menentukan penyebab sakit kuning. penanganan akan tergantung penyebab tersembunyi tersebut.</item>
+<item>Iritasi kulit karena sensitifitas terhadap bahan kimia tertentu bisa menyebabkan gatal yang meluas. Hindari pemakaian produk pewangi dan bubuk pencuci biologis. Gunakan emolien, misalnya krim larut-air, secara teratur untk melembabkan kulit anda. Bila gejalanya menetap, periksakan ke dokter.</item>
+<item>Kulit kering, karena faktor bakat, karena terlalu banyak di basuh,  atau pun terpapar pada bahan kimia, bisa sangat gatal. Gunakan emolien  sejenis misalnya krim larut-air secara teratur unutk melembabkan kulit anda dan hindari mandi memakai produk yang mengandung sabun. Bila gejalanya menetap, periksakan ke dokter.</item>
+</string-array>
+
+<string-array name="gejala76">
+<item></item>
+</string-array>
+
+<string-array name="solusi76">
+<item>Sakit yang lama atau perubahan hormoral  bisa menghentikan siklus normal pertumbuhan rambut, berakibat banyak rambut yang rontok bersamaan. Siklus pertumbuhan rambut akan kembali dan akan normal kembali dalam 6 bulan. Namun bila anda masih cemas, konsultasikan ke dokter.</item>
+<item>Obat tertentu, terutama yang untuk melawan kanker, bisa memiliki efek samping membuat rambut rontok. konsultasikan ke dokter. Sementara itu jangan hentikan pemakaian obat resep anda. Seringkali rambut akan kembali normal di akhir masa pengobatan atau bisa dibuatkan resep baru untuk obat pengganti.</item>
+<item>Mungkin anda menderita hipoteroidisme(kelenjar teroid kurang aktif). Periksakan ke dokter. Dokter akan meminta tes darah untuk mengukur tingkat hormon teroid. Bila diagnosanyan benar, anda akan diberi tablet teroid, yang perlu anda gunakan seumur hidup. Dokter akan meminta anda mengikuti pemeriksaan darah secara berkala untuk memantau dosisnya.</item>
+<item>Metoda rias rambut seperti itu bisa merusak rambut bila dilakukan secara tidak ahli atau terlalu berlebihan. Bila gaya rambut anda di ganti dengan yang lebih alami, mungkin rambut anda akan kembali tebal. Anda mungkin perlu memotong pendek bila rambut anda terlanjur rusak berat.</item>
+<item>Kerontokan ringan sejalan dengan pertambahan usia adalah wajar pada pria maupun wanita. Perlakukan rambut anda dengan lembut. Hindari pemakaian bahan kimia(perm dan pewarna) dan panas langsung ke rambut. Bila kerontokan rambut anda banyak sekali, atau bila anda mencemaskannya, konsultasikanlah ke dokter.</item>
+<item>Rambut rontok beralur mungkin karena adanya cacing gelang, terutama bila kulit kepala meradang dan gatal. Alopecia areata, yaitu sistem kekebalan tubuh menyerang folikel rambut, juga bisa menjadi kemungkinan penyebab. Konsultasikanlah ke dokter. Cacing gelang biasanya dirawat dengan serangkaian obat antijamur, Rambut anda akan kembali tumbuh. Alopecia areata sering hilang sendiri tanpa perawatan, dan rambut baru akan tumbuh dalam 6-9  bulan. Walau demikian, pada kasus yang jarang, kerontokan ini bisa permanen.</item>
+<item>Kebotakan berpola laki-laki(yang juga bisa di alami wanita) merupakan penyebab tipikal kerontokan. Pada kondisi ini, yang sering bersifat menurun, folikel rambut terlalu sensitif terhadap homon pria testosteron. Pada wanita, tingkat hormon ini dalam tubuh sering meningkat di masa menopause. Rambut rontok tidak bisa di cegah. Penanganan terbaru, seperti obat minoxidil yang di usapkan ke kulit kepala atau tablet finasterida, bisa membuat rambut tumbuh kembali pada sebagian orang, namun pertumbuhan ini akan hilang lagi bila pemakaian obat dihentikan. Bedah pencangkokan rambut adalah pilihan yang lain.</item>
+<item>Ketombe kemungkinan besar penyebabnya. Namun, pada beberapa kasus, kulit kepala bersisik juga bisa karena kondisi lain kulit, misalnya psoriasis. Cobalah memakai shampo yang mengandung ketoconazola. Bila kulit kepala anda tidak membaik dalam 4 minggu, konsultasikanlah ke dokter.</item>
+<item> Kemungkinan terbesar anda tertular kutu rambut. Sisir rambut anda dengan sisir halus di atas selembar kertas putih untuk memeriksa adanya kutu yang terjatuh. Ada beberapa ramuan untuk mengatasi kutu rambut, termasuk juga berbentuk shampo.</item>
+</string-array>
+
+</resources>

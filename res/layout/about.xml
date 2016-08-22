@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back"
+    >
+    
+    <RelativeLayout
+    android:orientation="vertical" 
+    android:layout_width="fill_parent"
+    android:layout_height="280px"
+    android:layout_marginTop="100px"
+    >
+	
+	
+    <TextView
+    android:id="@+id/tview"
+    android:textColor="#f0f0f0"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="About"
+    android:textSize="28px"
+	android:layout_marginLeft="70px"
+    ></TextView>
+    
+    <TextView
+    android:layout_below="@+id/tview"
+    android:id="@+id/prisca"
+    android:textColor="#f0f0f0"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="Prisca Josephine"
+    android:textSize="20px"
+	android:layout_marginLeft="60px"
+	android:layout_marginTop="20px"
+    ></TextView>
+    
+    <TextView
+    android:layout_below="@+id/prisca"
+    android:id="@+id/malachi"
+    android:textColor="#f0f0f0"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="Malachi Setiawan"
+    android:textSize="20px"
+	android:layout_marginLeft="100px"
+    ></TextView>
+    
+    <TextView
+    android:layout_below="@+id/malachi"
+    android:id="@+id/ryan"
+    android:textColor="#f0f0f0"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="Ryan DS"
+    android:textSize="20px"
+	android:layout_marginLeft="140px"
+    ></TextView>
+   
+    </RelativeLayout>
+    
+    <RelativeLayout
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+     android:background="@drawable/back"
+    >
+    
+    <TextView
+    android:id="@+id/about_teks"
+    android:layout_centerInParent="true"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="My Private Doctor"
+    ></TextView>
+    
+    <Button
+    android:layout_marginRight="20px"
+    android:layout_toLeftOf="@+id/about_teks"
+    android:id="@+id/tombol_kembali_about"
+    android:layout_centerInParent="true"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:background="@drawable/tombol_back_xml"
+    ></Button>
+    
+    
+    </RelativeLayout>
+    
+    
+    
+</LinearLayout>

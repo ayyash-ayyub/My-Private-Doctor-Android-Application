@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="penyakit" >
+<item>Tidak enak badan</item>
+<item>Kelelahan</item>
+<item>Berat badan turun</item>
+<item>Kegemukan</item>
+<item>Sulit tidur</item>
+<item>Demam</item>
+<item>Berkeringat berlebihan</item>
+<item>Sakit kepala</item>
+<item>Limbung dan hilang kesadaran</item>
+<item>Pusing</item>
+<item>Kebas dan/atau semutan</item>
+<item>Pelupa dan/atau linglung</item>
+<item>Kedutan atau gemetar</item>
+<item>Nyeri di wajah</item>
+<item>Sulit bicara</item>
+<item>Perasaan dan pikiran kacau</item>
+<item>Depresi</item>
+<item>Kecemasan</item>
+<item>Bintil dan benjolan</item>
+<item>Gatal gatal</item>
+<item>Masalah rambut dan kulit kepala</item>
+</string-array>
+</resources>
